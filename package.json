@@ -1,6 +1,6 @@
 {
   "name": "lgns-otc-maker-v2-phone",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "private": true,
   "type": "module",
   "scripts": {
