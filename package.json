@@ -1,13 +1,8 @@
 {
-  "name": "lgns-otc-maker-v2-phone",
-  "version": "2.3.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node -e \"require('fs').accessSync('worker.js')\"",
-    "deploy": "wrangler deploy"
-  },
-  "devDependencies": {
-    "wrangler": "4.50.0"
-  }
+  "name":"lgns-otc-v3-phone",
+  "version":"3.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"deploy":"wrangler deploy"},
+  "devDependencies":{"wrangler":"4.50.0"}
 }
